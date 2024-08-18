@@ -1,4 +1,4 @@
-const axios = require('axios');
+let axios = require('axios');
 
 async function gettoken() {
 let email = 'discord email'
